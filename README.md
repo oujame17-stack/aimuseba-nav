@@ -5,24 +5,24 @@
 </p>
 
 <p align="center">
-  <b>永久官方免翻主站：<a href="https://aimuseba.top">aimuseba.top</a> ｜ 官方超级导航：<a href="https://aimuseba.top/nav/">aimuseba.top/nav/</a></b>
+  <b>永久官方免翻主站：<a href="https://aimuseba.top">aimuseba.top</a> ｜ 防失联热备镜像站：<a href="https://muse8.ccwu.cc">muse8.ccwu.cc</a> ｜ 官方超级导航：<a href="https://aimuseba.top/nav/">aimuseba.top/nav/</a></b>
 </p>
 
 ---
 
 ## 🌟 平台总览与官方入口
 
-**暮色全栈聚合平台**（官方主站：`aimuseba.top`）是面向全球华人用户的超清免翻影音、资讯与机器人聚合生态。全平台 **100% 永久免费、零广告秒播、无需翻墙、极速流畅**！
+**暮色全栈聚合平台**（官方主站：`aimuseba.top` ｜ 永久防失联备用站：`muse8.ccwu.cc`）是面向全球华人用户的超清免翻影音、资讯与机器人聚合生态。全平台 **100% 永久免费、零广告秒播、无需翻墙、极速流畅**！
 
 ### 🧭 四大旗舰直达矩阵
 
-| 旗舰业务 | 官方访问地址 | 核心特色与资源概况 |
-| :--- | :--- | :--- |
-| **🎬 暮色刷剧** | [https://aimuseba.top/](https://aimuseba.top/) | 聚合 100,000+ 全网最新热播微短剧全集，战神、甜宠、逆袭、穿越一网打尽 |
-| **📹 暮色视频** | [https://aimuseba.top/video/](https://aimuseba.top/video/) | 大厂正版影视高能片段集锦，豆包专线极速分发，4K蓝光秒开 |
-| **🎵 星空音乐** | [https://music.muse8.ccwu.cc/](https://music.muse8.ccwu.cc/) | 母带级 Hi-Fi 无损音乐库，支持多人实时切歌、在线听歌房与互动点唱 |
-| **🍉 一起吃瓜** | [https://aimuseba.top/chigua/](https://aimuseba.top/chigua/) | 独家一手网红黑料、娱乐圈实锤猛料每日更新，真视频真真相 |
-| **🧭 暮色导航** | [https://aimuseba.top/nav/](https://aimuseba.top/nav/) | 全网官方统一防失联导航中心，实时监控线路健康状态 |
+| 旗舰业务 | 官方主站地址 | 防失联热备地址 | 核心特色与资源概况 |
+| :--- | :--- | :--- | :--- |
+| **🎬 暮色刷剧** | [https://aimuseba.top/](https://aimuseba.top/) | [https://muse8.ccwu.cc/](https://muse8.ccwu.cc/) | 聚合 100,000+ 全网最新热播微短剧全集，战神、甜宠、逆袭、穿越一网打尽 |
+| **📹 暮色视频** | [https://aimuseba.top/video/](https://aimuseba.top/video/) | [https://muse8.ccwu.cc/video/](https://muse8.ccwu.cc/video/) | 大厂正版影视高能片段集锦，豆包专线极速分发，4K蓝光秒开 |
+| **🎵 星空音乐** | [https://music.muse8.ccwu.cc/](https://music.muse8.ccwu.cc/) | [https://music.muse8.ccwu.cc/](https://music.muse8.ccwu.cc/) | 母带级 Hi-Fi 无损音乐库，支持多人实时切歌、在线听歌房与互动点唱 |
+| **🍉 一起吃瓜** | [https://aimuseba.top/chigua/](https://aimuseba.top/chigua/) | [https://muse8.ccwu.cc/chigua/](https://muse8.ccwu.cc/chigua/) | 独家一手网红黑料、娱乐圈实锤猛料每日更新，真视频真真相 |
+| **🧭 暮色导航** | [https://aimuseba.top/nav/](https://aimuseba.top/nav/) | [https://muse8.ccwu.cc/nav/](https://muse8.ccwu.cc/nav/) | 全网官方统一防失联导航中心，实时监控线路健康状态 |
 
 ---
 
